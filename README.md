@@ -1,0 +1,2 @@
+# disable-touchscreen
+Startup script 
